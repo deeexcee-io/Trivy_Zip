@@ -2,7 +2,7 @@
 Unzip and scan multiple container images with csv output for easy reporting
 
 # Trivy_Zip
-Unzips HO Container Images and Vuln Scans with Trivy.
+Unzips Container Images and Vuln Scans with Trivy.
 
 Go on Bitbucket, find the Container(s) and download it 
 
