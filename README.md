@@ -1,5 +1,5 @@
 # Trivy_Zip
-Unzip and scan multiple source container images with csv output for easy reporting. I've done so many ITHCs whereby the client has asked for their containers to be vuln scanned. I recently had 60 that were requested and no way of doing it quickly....so I wrote this.
+Unzip and scan multiple source container images with csv output for easy reporting. I've done so many ITHCs whereby the client has asked for their containers to be vuln scanned amongst other checks. I recently had 60 that were requested and no way of doing it quickly....so I wrote this.
 
 # Trivy_Zip
 Unzips Container Images and Vuln Scans with Trivy.
